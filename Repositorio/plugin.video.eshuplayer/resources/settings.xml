@@ -1,0 +1,14 @@
+﻿<settings>		
+  <category label="Información eshuplayer">
+       	<setting type="lsep" label="[COLOR lime]Versión del Addon Actualizado 20/01/2018[/COLOR]" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+        <setting type="lsep" label="[COLOR yellow]Facebook:[/COLOR] www.facebook.com/eshuplayer.kodi" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+        <setting type="lsep" label="[COLOR yellow]Twitter:[/COLOR] @kodi_eshuplayer" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+		<setting type="lsep" label="[COLOR yellow]Email:[/COLOR] eshuplayer.kodi@gmail.com" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+		<setting type="lsep" label="[COLOR yellow]Web:[/COLOR] http://eshuplayerkodi.com" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+		<setting type="lsep" label="[COLOR yellow]Grupo Telegram:[/COLOR] @kodieshuplayer" option="close" action="RunPlugin(plugin://plugin.video.eshuplayer/?mode=7)" />
+ </category>
+		
+  
+  </settings>
+
+
